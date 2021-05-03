@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.heading {
+    background-color: violet;
+}
+.heading > h1 {
+    color: blueviolet;
+    height: 150px;
+    padding: 50px;
+}
+
+.col-sm-2 {
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+}
+
+.rowtextlight {
+    width: 20px;
+}
+
+.col-sm-12 {
+    color: thistle;
+}
