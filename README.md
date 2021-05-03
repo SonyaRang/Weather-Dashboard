@@ -20,4 +20,9 @@ WHEN I click on a city in the search history
 
 THEN I am again presented with current and future conditions for that city
 
+
+
+<img width="1337" alt="Screen Shot 2021-05-02 at 11 34 39 PM" src="https://user-images.githubusercontent.com/80353743/116841539-255e0300-ab9f-11eb-8d98-188377237faa.png">
+
+
  https://sonyarang.github.io/Weather-Dashboard/
